@@ -1,4 +1,4 @@
-db# markDown写作格式
+# markDown写作格式
 ### 1. 链接
 快捷键 l + Enter ： [描述] (地址)   eg. [baidu] (http://www.baidu.com)   [baidu](http://www.baidu.com)
 ### 2. 图片
